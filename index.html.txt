@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+        h1 {
+            color: #111;
+            border-bottom: 2px solid #eaeaea;
+            padding-bottom: 10px;
+            font-size: 28px;
+        }
+        h2 {
+            color: #2c3e50;
+            font-size: 20px;
+            margin-top: 30px;
+        }
+        p, li {
+            font-size: 16px;
+            color: #555;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .footer {
+            margin-top: 40px;
+            text-align: center;
+            font-size: 14px;
+            color: #999;
+            border-top: 1px solid #eaeaea;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Política de Privacidad</h1>
+    <p><strong>Última actualización:</strong> Junio 2026</p>
+
+    <p>Esta política de privacidad describe cómo se maneja la información en nuestra aplicación móvil (en adelante, "la Aplicación"). Nos tomamos muy en serio la privacidad de nuestros usuarios y nos comprometemos a protegerla.</p>
+
+    <h2>1. Recopilación de Información</h2>
+    <p><strong>La Aplicación no recopila, almacena, comparte ni transmite ningún tipo de información personal</strong> del usuario, como nombres, direcciones de correo electrónico, ubicaciones, fotos o datos del dispositivo. Todo el procesamiento de datos se realiza de forma estrictamente local en el dispositivo del usuario.</p>
+
+    <h2>2. Permisos del Dispositivo</h2>
+    <p>Es posible que la Aplicación solicite ciertos permisos necesarios exclusivamente para su correcto funcionamiento técnico (por ejemplo, acceso al almacenamiento local para guardar configuraciones). Estos permisos se utilizan únicamente dentro del entorno local de la aplicación y en ningún momento implican la extracción de datos.</p>
+
+    <h2>3. Enlaces a Terceros</h2>
+    <p>La Aplicación no incluye servicios de terceros, redes de anuncios ni herramientas de análisis que recopilen datos de identificación del usuario.</p>
+
+    <h2>4. Menores de Edad</h2>
+    <p>Dado que la Aplicación no recopila ninguna información personal, es completamente segura para su uso por parte de menores de edad, cumpliendo con las normativas vigentes de protección de datos.</p>
+
+    <h2>5. Cambios a esta Política</h2>
+    <p>Podemos actualizar nuestra Política de Privacidad de vez en cuando. Se recomienda revisar esta página periódicamente para comprobar cualquier cambio. Los cambios son efectivos inmediatamente después de ser publicados en esta página.</p>
+
+    <h2>6. Contacto</h2>
+    <p>Si tienes alguna pregunta o sugerencia sobre esta Política de Privacidad, no dudes en contactarnos en:</p>
+    <ul>
+        <li><strong>Correo electrónico:</strong> tu-correo@ejemplo.com</li>
+    </ul>
+
+    <div class="footer">
+        &copy; 2026 Todos los derechos reservados.
+    </div>
+</div>
+
+</body>
+</html>
